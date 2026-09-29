@@ -52,5 +52,4 @@ Most of my client work (AI video platforms, bullion trading systems, education p
 #### 📫 Work with me
 
 <!-- TODO: add your links -->
-- Email: `you@example.com`
-- LinkedIn / Upwork: `add-link-here`
+- Email: `sudeshkumarchhipa@gmail.com`
